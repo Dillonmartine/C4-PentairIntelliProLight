@@ -147,7 +147,3 @@ The IntelliCenter local protocol has **no authentication and no encryption**. An
 - If something doesn't work on a new install, set **Debug Mode** to `Print` and check the Lua output window.
 
 ---
-
-## Credits
-
-Ported from the standalone `intellicenter_light.py` script. Based on the structure of the Govee Scene Light Control4 driver.
